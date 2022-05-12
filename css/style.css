@@ -96,3 +96,14 @@ th,
 td {
   padding: 5px;
 }
+
+/* Start Media  */
+@media (max-width: 767px) {
+  .price {
+    text-align: center;
+  }
+  .price input {
+    width: 30%;
+  }
+}
+/* Start Media  */
