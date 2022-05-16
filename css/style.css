@@ -105,5 +105,11 @@ td {
   .price input {
     width: 30%;
   }
+  .head p {
+    font-size: 14px;
+  }
+  .table {
+    overflow-x: auto;
+  }
 }
 /* Start Media  */
